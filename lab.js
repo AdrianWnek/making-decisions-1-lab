@@ -7,7 +7,7 @@
 */
 
 //CODE HERE
-var lovesCode = true;
+let lovesCode = true;
 
 if (lovesCode === true) {
   console.log('I love to code!');
@@ -16,10 +16,10 @@ if (lovesCode === true) {
 }
 
 // For problems 2-3 use the following lines of code:
-var amysAge = 29;
-var brittanisAge = 34;
-var amysBirthYear = 1991;
-var brittanisBirthYear = 1986;
+let amysAge = 29;
+let brittanisAge = 34;
+let amysBirthYear = 1991;
+let brittanisBirthYear = 1986;
 
 ////////// PROBLEM 2 //////////
 
